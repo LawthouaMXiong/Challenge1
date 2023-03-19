@@ -1,2 +1,2 @@
 # Challenge1
-Week 1 Challenge Homeowork
+Week 1 Challenge Homework
